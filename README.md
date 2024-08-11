@@ -1,4 +1,25 @@
-# 🌟 __About Me__
+#
+<p float="left" align="left">
+  &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_piscine.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png" width="265"/>
+  </a>
+   &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_born2beroot.png" width="265"/>
+  </a>
+</p>
+
+
+
+
+# 
+
+🌟 __About Me__
 - 👋 Hi, I’m Lando Rafael `(@lrafa3l)`!
 - 💻 Passionate about coding, problem-solving, and continuous learning.
 - 🎓 Currently studying at `42 School`, where I’m immersing myself in the world of coding and technology. At 42, I’m developing a strong foundation in __Computer Science__ and honing my skills through hands-on projects and collaboration.
