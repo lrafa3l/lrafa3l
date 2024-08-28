@@ -54,7 +54,7 @@
 - LinkedIn: www.linkedin.com/in/landorafael
 
 ## ⚡ 🚀 __Fun fact:__
-- I have created a simple C library as part of a project, and it was both challenging and rewarding!
+- I've created a simple C library as part of a project, and it was both challenging and rewarding!
 
 <!---
 lrafa3l/lrafa3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
