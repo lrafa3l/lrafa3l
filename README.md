@@ -24,9 +24,9 @@
 - 🚀 Always eager to learn new challenges and expand my skill set.
 
 ## 🛠️ __Technologies & Tools__
-- Languages: C, C#, JavaScript.
-- Tools: Git, Makefile.
-- Platforms: Linux.
+- __Languages__: C, C#, JavaScript.
+- __Tools__: Git, Makefile.
+- __Platforms__: Linux.
 
 
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -49,7 +49,7 @@
 ## 📫 __How to reach me__
 - Email: lando@landorafael.me
 
-## ⚡ 🚀 __Fun Fact__
+## 🚀 __Fun Fact__
 - I've created a simple C library as part of a project, and it was both challenging and rewarding!
 
 <!---
