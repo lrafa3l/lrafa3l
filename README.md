@@ -24,20 +24,23 @@
 - 🚀 Always eager to learn new challenges and expand my skill set.
 
 ## 🛠️ __Technologies & Tools__
-- __Languages__: C, C#, JavaScript.
-- __Tools__: Git, Makefile.
-- __Platforms__: Linux.
-
-
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Markdown" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Slack" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Makefile" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
+<br>
 <br>
 
 <!--
