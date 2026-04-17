@@ -17,7 +17,7 @@
 
 # 
 
-# 🌟 __About Me__
+#  __About Me__
 - 👋 Hi, I’m Lando Rafael `(@lrafa3l)`!
 - 💻 Passionate about coding, problem-solving, and continuous learning.
 - 🎓 Currently studying at `42 School (Luanda)`, where I’m immersing myself in the world of coding and technology. At 42, I’m developing a strong foundation in __Software Engineering__ and honing my skills through hands-on projects and collaboration.
