@@ -18,10 +18,11 @@
 # 
 
 #  __About Me__
-- 👋 Hi, I’m Lando Rafael `(@lrafa3l)`!
-- 💻 Passionate about coding, problem-solving, and continuous learning.
-- 🎓 Currently studying at `42 School (Luanda)`, where I’m immersing myself in the world of coding and technology. At 42, I’m developing a strong foundation in __Software Engineering__ and honing my skills through hands-on projects and collaboration.
-- 🚀 Always eager to learn new challenges and expand my skill set.
+👋 Hi, I’m Lando Rafael `(@lrafa3l)`!
+
+🎩 I focus on understanding how systems work and how to make them more secure. My journey in tech has been all about learning and constantly growing.
+
+🎯 I aim to help build safer, more reliable and secure digital environments.
 
 ## 🛠️ __Technologies & Tools__
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding-right:10px;" />
