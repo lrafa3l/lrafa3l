@@ -51,8 +51,8 @@
 -->
 
 ## 📫 __How to reach me__
-- Email: lando@landorafael.me
-- Website: [Lando Rafael](https://landorafael.me)
+- Email: info@lrafael.tech
+- Website: [Lando Rafael](https://lrafael.tech)
 
 ## 🚀 __Fun Fact__
 - I've created a simple C library as part of a project, and it was both challenging and rewarding!
